@@ -1,5 +1,10 @@
 # Házifeladat
 
+Határidő: 2024.10.13 23:59:59
+
+A házifeladat megoldásait külön-külön fájlban mentsétek el,
+zippelve az alábbi mail címre küldhetitek el: vince.dulicz@gmail.com
+
 ## Pénzrendszerező
 **Feladat:**  
 Készíts programot, mely bekéri a felhasználótól, hogy a kasszában hány 100, 200 és 500 Ft-os található.
@@ -40,3 +45,5 @@ Készíts programot, melyben a felhasználó megadja egy tetszőleges négyszög
 A program kiszámítja a négyszög kerületét.
 Feltételezzük, hogy a bevitt pontok által meghatározott szakaszok nem metszik egymást.
 Számíttasd ki a területet is! (Ehhez Hérón képlete használható.)
+
+# + Szorgalmi feladat: github fiók létrehozása és a megoldások feltöltése oda (github link küldése slack-en v mail-ben)
