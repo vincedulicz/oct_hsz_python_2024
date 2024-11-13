@@ -1,0 +1,5 @@
+Események naplózása újraindítva.
+2024-11-13 18:47:19 - bejelentkezés
+2024-11-13 18:47:19 - adatFel
+2024-11-13 18:47:19 - kijelentkezés
+Az események napló újraindítva
