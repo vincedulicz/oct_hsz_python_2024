@@ -1,0 +1,83 @@
+{
+    "user-PCTET0": {
+        "valid_until": "2025.07.08",
+        "born-date": "1940.05.27",
+        "name": "Jane Smith",
+        "age": 84,
+        "country": "EU",
+        "worker": true,
+        "other": []
+    },
+    "user-xtaDzU": {
+        "valid_until": "2025.08.08",
+        "born-date": "1931.01.10",
+        "name": "John Doe",
+        "age": 93,
+        "country": "USA",
+        "worker": false,
+        "other": []
+    },
+    "user-LF8hBp": {
+        "valid_until": "2024.12.04",
+        "born-date": "1955.07.24",
+        "name": "Jane Smith",
+        "age": 69,
+        "country": "HU",
+        "worker": true,
+        "other": []
+    },
+    "user-sj5lcx": {
+        "valid_until": "2025.03.27",
+        "born-date": "1953.11.09",
+        "name": "Emily Clark",
+        "age": 71,
+        "country": "HU",
+        "worker": false,
+        "other": []
+    },
+    "user-n4OIYo": {
+        "valid_until": "2024.12.15",
+        "born-date": "1957.11.12",
+        "name": "Jane Smith",
+        "age": 67,
+        "country": "USA",
+        "worker": true,
+        "other": []
+    },
+    "user-MDxqOe": {
+        "valid_until": "2025.04.20",
+        "born-date": "1932.03.15",
+        "name": "Jane Smith",
+        "age": 92,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-VC2YKv": {
+        "valid_until": "2025.02.22",
+        "born-date": "1950.12.14",
+        "name": "Alice Johnson",
+        "age": 74,
+        "country": "SP",
+        "worker": true,
+        "other": []
+    },
+    "user-9O0PHl": {
+        "valid_until": "2025.02.06",
+        "born-date": "1955.01.20",
+        "name": "Bob Brown",
+        "age": 69,
+        "country": "USA",
+        "worker": true,
+        "other": []
+    },
+    "user-RSlgAy": {
+        "valid_until": "2025.04.06",
+        "born-date": "1950.10.19",
+        "name": "John Doe",
+        "age": 74,
+        "country": "HU",
+        "worker": false,
+        "other": []
+    }
+}
