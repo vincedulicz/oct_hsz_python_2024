@@ -1,0 +1,162 @@
+URL = "https//www.api-weather.com/$get_daily_data&API_KEY='saját api'"
+
+
+
+
+{
+    "2024-11-12": {
+        "condition": "ködös",
+        "temperature": 8.9,
+        "rain_chance": 73
+    },
+    "2024-11-13": {
+        "condition": "semillen",
+        "temperature": 12.8,
+        "rain_chance": 12
+    },
+    "2024-11-14": {
+        "condition": "ködös",
+        "temperature": 15.7,
+        "rain_chance": 60
+    },
+    "2024-11-15": {
+        "condition": "napos",
+        "temperature": 6.8,
+        "rain_chance": 71
+    },
+    "2024-11-16": {
+        "condition": "semillen",
+        "temperature": 10.8,
+        "rain_chance": 68
+    },
+    "2024-11-17": {
+        "condition": "esõs",
+        "temperature": 2.0,
+        "rain_chance": 28
+    },
+    "2024-11-18": {
+        "condition": "szeles",
+        "temperature": 9.4,
+        "rain_chance": 38
+    },
+    "2024-11-19": {
+        "condition": "ködös",
+        "temperature": 10.7,
+        "rain_chance": 6
+    },
+    "2024-11-20": {
+        "condition": "esõs",
+        "temperature": 1.7,
+        "rain_chance": 71
+    },
+    "2024-11-21": {
+        "condition": "semillen",
+        "temperature": 10.9,
+        "rain_chance": 23
+    },
+    "2024-11-22": {
+        "condition": "ködös",
+        "temperature": 7.4,
+        "rain_chance": 84
+    },
+    "2024-11-23": {
+        "condition": "semillen",
+        "temperature": 4.2,
+        "rain_chance": 51
+    },
+    "2024-11-24": {
+        "condition": "napos",
+        "temperature": 1.4,
+        "rain_chance": 30
+    },
+    "2024-11-25": {
+        "condition": "napos",
+        "temperature": 0.3,
+        "rain_chance": 12
+    },
+    "2024-11-26": {
+        "condition": "esõs",
+        "temperature": 15.5,
+        "rain_chance": 39
+    },
+    "2024-11-27": {
+        "condition": "semillen",
+        "temperature": 15.5,
+        "rain_chance": 37
+    },
+    "2024-11-28": {
+        "condition": "napos",
+        "temperature": 10.2,
+        "rain_chance": 72
+    },
+    "2024-11-29": {
+        "condition": "szeles",
+        "temperature": 7.5,
+        "rain_chance": 51
+    },
+    "2024-11-30": {
+        "condition": "szeles",
+        "temperature": 15.8,
+        "rain_chance": 8
+    },
+    "2024-12-01": {
+        "condition": "esõs",
+        "temperature": 1.4,
+        "rain_chance": 99
+    },
+    "2024-12-02": {
+        "condition": "semillen",
+        "temperature": 0.8,
+        "rain_chance": 60
+    },
+    "2024-12-03": {
+        "condition": "ködös",
+        "temperature": 8.4,
+        "rain_chance": 21
+    },
+    "2024-12-04": {
+        "condition": "ködös",
+        "temperature": 6.6,
+        "rain_chance": 44
+    },
+    "2024-12-05": {
+        "condition": "szeles",
+        "temperature": 1.2,
+        "rain_chance": 74
+    },
+    "2024-12-06": {
+        "condition": "esõs",
+        "temperature": 4.8,
+        "rain_chance": 70
+    },
+    "2024-12-07": {
+        "condition": "szeles",
+        "temperature": 16.8,
+        "rain_chance": 0
+    },
+    "2024-12-08": {
+        "condition": "semillen",
+        "temperature": 19.8,
+        "rain_chance": 78
+    },
+    "2024-12-09": {
+        "condition": "ködös",
+        "temperature": 4.6,
+        "rain_chance": 11
+    },
+    "2024-12-10": {
+        "condition": "ködös",
+        "temperature": 4.9,
+        "rain_chance": 35
+    },
+    "2024-12-11": {
+        "condition": "ködös",
+        "temperature": 8.7,
+        "rain_chance": 56
+    },
+    "2024-12-12": {
+        "condition": "napos",
+        "temperature": 13.3,
+        "rain_chance": 52
+    }
+}
