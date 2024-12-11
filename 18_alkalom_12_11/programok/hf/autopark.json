@@ -1,0 +1,130 @@
+[
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamion",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 12000,
+        "teherbiras": 8
+    }
+]
