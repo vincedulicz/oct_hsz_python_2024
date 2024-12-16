@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Thor",
+        "type": "Warrior",
+        "hp": 120,
+        "level": 8
+    },
+    {
+        "name": "Merlin",
+        "type": "Mage",
+        "hp": 85,
+        "level": 5
+    },
+    {
+        "name": "Thor",
+        "type": "Warrior",
+        "hp": 120,
+        "level": 8
+    },
+    {
+        "name": "Merlin",
+        "type": "Mage",
+        "hp": 85,
+        "level": 5
+    },
+    {
+        "name": "Thor",
+        "type": "Warrior",
+        "hp": 120,
+        "level": 8
+    },
+    {
+        "name": "Merlin",
+        "type": "Mage",
+        "hp": 85,
+        "level": 5
+    }
+]
